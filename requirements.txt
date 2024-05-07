@@ -1,0 +1,6 @@
+openai==1.14.2
+python-dotenv==1.0.1
+prompt_toolkit==3.0.43
+langchain==0.1.13
+langchain-openai==0.1.1
+
